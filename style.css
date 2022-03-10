@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-part{
+    background-color: rgb(26, 26, 177);
+}
+.baner{
+    display: flex;
+    justify-content: space-around;
+}
+.baner-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: white;
+    font-weight: 600px;
+}
+.btn{
+    background-color: crimson;
+    color:white
+}
+.baner-image{
+    width: 530px;
+    height: 440px;
+    border: 1px solid rgb(26, 26, 177);
+}
+.baner-image img{
+    width: 100%;
+}
